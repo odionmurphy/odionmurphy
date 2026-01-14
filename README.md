@@ -2,38 +2,58 @@
 
 # 👋 Hey, I'm Murphy
 
-### Growth Lead at Nextwork  
-**Software Engineer | Full-Stack | Data | DevOps**
-
-I build systems that scale, automate, and evolve.  
-My work lives at the intersection of **engineering rigor**, **AI AUTOMATION PROJECTS**, and **product-driven growth**.
-
-> _Playful in experimentation. Serious about execution._
+### I’m a frontend developer student / junior developer looking for a **frontend or software development internship**.  
+I enjoy learning by building projects and turning designs into simple, responsive web applications.
 
 ---
-
-## 🚀 Fast Pass
-- 🔧 Full-stack engineering with cloud-first thinking
-- ☁️ AWS-native systems (Dockerized, CI/CD-driven)
-- 📊 Data-informed decision making
-- ⚙️ DevOps automation and reliability engineering
-- 🧠 Constant learner, systems thinker
+## About Me
+I’m currently focused on learning frontend development and building hands-on projects to strengthen my skills. I enjoy working with JavaScript and React, and I like understanding how frontend applications connect to APIs and databases.
+As an intern, I bring:
+- A strong willingness to learn and take feedback
+- Attention to detail when building UI
+- Basic understanding of how full-stack applications work
+- A positive and collaborative mindset
+I’m excited to grow my skills in a real-world team environment.
 
 ---
-
-## 🧰 Technical Stack
-
-**Cloud & DevOps**
-- AWS (EC2, S3, IAM, RDS, Lambda)
-- Docker & containerized workflows
-- CI/CD pipelines (GitHub Actions)
-- Infrastructure automation & monitoring
 
 **Engineering**
 - Full-stack development (API-first design)
 - Data pipelines & analytics
 - Scalable system architecture
 
+## 🧰  Skills & Tools
+
+**Languages**
+- HTML, CSS, JavaScript (ES6+), TypeScript
+
+**Frontend**
+- React
+- Next.js
+- Tailwind CSS
+
+**Backend & Databases (learning / basic experience)**
+- REST APIs
+- PostgreSQL
+- MySQL
+- 
+**🚀 Tools & Platforms**
+- Git & GitHub
+- ☁️ AWS-native systems (Dockerized, CI/CD-driven)
+- ⚙️ DevOps automation and reliability engineering
+- Render (deployment)
+- Vercel / Netlify
+- Infrastructure automation & monitoring
+---
+** Design
+- Figma
+  
+---
+**Core Concepts**
+- Responsive design
+- Component-based development
+- Accessibility basics
+- Clean and readable code
 ---
 
 ## 🧪 Featured Projects (Deep Dive)
@@ -46,7 +66,7 @@ My work lives at the intersection of **engineering rigor**, **AI AUTOMATION PROJ
 <td width="33%">
 <h3 align="center">🚀 Project One</h3>
 <p align="center">
-<img src="https://via.placeholder.com/400x220" alt="Project One"/>
+<img src="()/400x220" alt="Project One"/>
 </p>
 <p>
 <b>What it is:</b> Short description of the problem you solved.<br/>
@@ -54,7 +74,7 @@ My work lives at the intersection of **engineering rigor**, **AI AUTOMATION PROJ
 <b>Why it matters:</b> Impact, scale, or learning outcome.
 </p>
 <p align="center">
-<a href="#">Repo</a> · <a href="#">Live Demo</a>
+<a href="https://github.com/odionmurphy/group-dci">Repo</a> · <a href="#">Live Demo</a>
 </p>
 </td>
 
@@ -106,7 +126,7 @@ My work lives at the intersection of **engineering rigor**, **AI AUTOMATION PROJ
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: **[Your Portfolio Website](#)**
+- 🌍 Portfolio: **[Your Portfolio Website](http://localhost:5173/#home)**
 - 💼 LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/feed/)**
 - 📸 Instagram: **[Instagram Profile](#)**
 - 🧑‍💻 GitHub: **[github.com/YOUR_GITHUB_USERNAME](#)**
@@ -121,4 +141,5 @@ I believe great engineers:
 - Measure impact, not effort
 - Ship, learn, and iterate fast
 
-If you’re building something ambitious — let’s talk.
+If you’d like to connect or learn more about my work, feel free to reach out.
+
