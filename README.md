@@ -66,7 +66,7 @@ I’m excited to grow my skills in a real-world team environment.
 <td width="33%">
 <h3 align="center">🚀 Project One</h3>
 <p align="center">
-<img src="()/400x220" alt="Project One"/>
+<img src="(https://github.com/agency-next-js-project/Group-next.js-project/blob/main/my-app/public/4.jpg?raw=true)/400x220" alt="Project One"/>
 </p>
 <p>
 <b>What it is:</b> Short description of the problem you solved.<br/>
@@ -74,7 +74,7 @@ I’m excited to grow my skills in a real-world team environment.
 <b>Why it matters:</b> Impact, scale, or learning outcome.
 </p>
 <p align="center">
-<a href="https://github.com/odionmurphy/group-dci">Repo</a> · <a href="#">Live Demo</a>
+<a href="https://github.com/agency-next-js-project/Group-next.js-project">Repo</a> · <a href="#">Live Demo</a>
 </p>
 </td>
 
