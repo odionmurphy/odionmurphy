@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Murphy
 
-### I’m a frontend developer student / junior developer looking for a **frontend or software development internship**.  
+### I’m a frontend developer  / **.  
 I enjoy learning by building projects and turning designs into simple, responsive web applications.
 
 ---
@@ -19,7 +19,6 @@ I’m excited to grow my skills in a real-world team environment.
 
 **Engineering**
 - Full-stack development (API-first design)
-- Data pipelines & analytics
 - Scalable system architecture
 
 ## 🧰  Skills & Tools
@@ -36,28 +35,19 @@ I’m excited to grow my skills in a real-world team environment.
 - REST APIs
 - PostgreSQL
 - MySQL
-- 
+- Express
+
 **🚀 Tools & Platforms**
 - Git & GitHub
 - ☁️ AWS-native systems (Dockerized, CI/CD-driven)
 - ⚙️ DevOps automation and reliability engineering
-- Render (deployment)
-- Vercel / Netlify
+- Render,Vercel (deployment)
 - Infrastructure automation & monitoring
 ---
-** Design
+📈  Design
 - Figma
-  
 ---
-**Core Concepts**
-- Responsive design
-- Component-based development
-- Accessibility basics
-- Clean and readable code
----
-
 ## 🧪 Featured Projects (Deep Dive)
-
 > A selection of hands-on, production-minded work.  
 > Each project emphasizes **real-world constraints**, **engineering tradeoffs**, and **measurable outcomes**.
 
@@ -109,18 +99,6 @@ I’m excited to grow my skills in a real-world team environment.
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Development Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" />
-</p>
 
 ---
 
