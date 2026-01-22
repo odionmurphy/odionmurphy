@@ -58,9 +58,9 @@ I’m excited to grow my skills in a real-world team environment.
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 
-  <img width="12" />
+  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
 
   <img width="12" />
 
