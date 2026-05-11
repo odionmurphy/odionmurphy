@@ -35,11 +35,21 @@ What I bring to a team:
 ![Skills](./skills-banner.svg)
 
 ---
-## 🧪 Featured Projects (Deep Dive)
-> | Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| ShopHUD | E-commerce app with product pages and REST API | React, TypeScript | [Repo](your-link) · [Live](https://shophud-frontend.onrender.com) |
-| Portfolio | Personal developer portfolio | React, Tailwind | [Repo](your-link) · [Live](https://murphy1.onrender.com) |
+## 🚀 Featured Projects
+
+### 🛒 ShopHUD
+E-commerce web app with product pages, REST API integration, and responsive design.
+- **Tech:** React, TypeScript, Tailwind CSS
+- **Live:** [shophud-frontend.onrender.com](https://shophud-frontend.onrender.com)
+- **Repo:** [github.com/odionmurphy/shophud](https://github.com/odionmurphy/shophud)
+
+---
+
+### 💼 Developer Portfolio
+Personal portfolio showcasing projects and skills.
+- **Tech:** React, TypeScript
+- **Live:** [murphy1.onrender.com](https://murphy1.onrender.com)
+- **Repo:** [github.com/odionmurphy/Murphy-Portfolio](https://github.com/odionmurphy/Murphy-Portfolio)
 
 <table>
 <tr>
