@@ -43,8 +43,6 @@ E-commerce web app with product pages, REST API integration, and responsive desi
 - **Live:** [shophud-frontend.onrender.com](https://shophud-frontend.onrender.com)
 - **Repo:** [github.com/odionmurphy/shophud](https://github.com/odionmurphy/shophud)
 
----
-
 ### 💼 Developer Portfolio
 Personal portfolio showcasing projects and skills.
 - **Tech:** React, TypeScript
