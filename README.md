@@ -117,8 +117,10 @@ I’m excited to grow my skills in a real-world team environment.
 - Figma
 ---
 ## 🧪 Featured Projects (Deep Dive)
-> A selection of hands-on, production-minded work.  
-> Each project emphasizes **real-world constraints**, **engineering tradeoffs**, and **measurable outcomes**.
+> | Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| ShopHUD | E-commerce app with product pages and REST API | React, TypeScript | [Repo](your-link) · [Live](https://shophud-frontend.onrender.com) |
+| Portfolio | Personal developer portfolio | React, Tailwind | [Repo](your-link) · [Live](https://murphy1.onrender.com) |
 
 <table>
 <tr>
