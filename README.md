@@ -60,6 +60,12 @@ Full-stack web application built collaboratively with a team.
 ---
 
 ## 🌐 Connect With Me
+
+- 🌍 Portfolio: [murphy1.onrender.com](https://murphy1.onrender.com)
+- 🐙 GitHub: [github.com/odionmurphy](https://github.com/odionmurphy)
+- 💼 LinkedIn: [linkedin.com/in/odionmurphy](https://linkedin.com/in/odionmurphy)
+
+## 🌐 Connect With Me
 - 🌐 Portfolio: [murphy1.onrender.com](https://murphy1.onrender.com)
 - 🐙 GitHub: [github.com/odionmurphy](https://github.com/odionmurphy)
 - 💼 LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/feed/)**
