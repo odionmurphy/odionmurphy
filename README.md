@@ -63,9 +63,6 @@ Full-stack web application built collaboratively with a team.
 - 🌐 Portfolio: [murphy1.onrender.com](https://murphy1.onrender.com)
 - 🐙 GitHub: [github.com/odionmurphy](https://github.com/odionmurphy)
 - 💼 LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/feed/)**
-- 📸 Instagram: **[Instagram Profile](#)**
-
-
 ---
 
 ## 🧠 Philosophy
