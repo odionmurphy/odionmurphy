@@ -51,54 +51,10 @@ Personal portfolio showcasing projects and skills.
 - **Live:** [murphy1.onrender.com](https://murphy1.onrender.com)
 - **Repo:** [github.com/odionmurphy/Murphy-Portfolio](https://github.com/odionmurphy/Murphy-Portfolio)
 
-<table>
-<tr>
-<td width="33%">
-<h3 align="center">🚀 Project One</h3>
-<p align="center">
-<img src="(https://github.com/agency-next-js-project/Group-next.js-project/blob/main/my-app/public/4.jpg?raw=true)/400x220" alt="Project One"/>
-</p>
-<p>
-<b>What it is:</b> Short description of the problem you solved.<br/>
-<b>Tech:</b> AWS, Docker, CI/CD<br/>
-<b>Why it matters:</b> Impact, scale, or learning outcome.
-</p>
-<p align="center">
-<a href="https://github.com/agency-next-js-project/Group-next.js-project">Repo</a> · <a href="#">Live Demo</a>
-</p>
-</td>
-
-<td width="33%">
-<h3 align="center">📊 Project Two</h3>
-<p align="center">
-<img src="https://via.placeholder.com/400x220" alt="Project Two"/>
-</p>
-<p>
-<b>What it is:</b> Data-driven or backend-focused system.<br/>
-<b>Tech:</b> AWS, APIs, Automation<br/>
-<b>Why it matters:</b> Performance, insight, or optimization.
-</p>
-<p align="center">
-<a href="#">Repo</a> · <a href="#">Case Study</a>
-</p>
-</td>
-
-<td width="33%">
-<h3 align="center">⚙️ Project Three</h3>
-<p align="center">
-<img src="https://via.placeholder.com/400x220" alt="Project Three"/>
-</p>
-<p>
-<b>What it is:</b> DevOps or infrastructure-focused build.<br/>
-<b>Tech:</b> Docker, CI/CD, AWS<br/>
-<b>Why it matters:</b> Reliability, speed, or scale.
-</p>
-<p align="center">
-<a href="#">Repo</a> · <a href="#">Architecture</a>
-</p>
-</td>
-</tr>
-</table>
+### 🏗️ Group Next.js Project
+Full-stack group project built with Next.js during DCI training.
+- **Tech:** Next.js, React, TypeScript
+- **Repo:** [github.com/agency-next-js-project](https://github.com/agency-next-js-project/Group-next.js-project)
 
 ---
 
