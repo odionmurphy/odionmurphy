@@ -15,7 +15,13 @@ building modern web applications. I work with JavaScript, TypeScript,
 and React on the frontend, with working knowledge of Node.js, Express, 
 and PostgreSQL on the backend. I enjoy turning designs into clean, 
 responsive interfaces while understanding how they connect to APIs 
-and databases. As an intern, I bring:
+and databases.
+
+What I bring to a team:
+- Strong attention to detail when building UI
+- Ability to work across the full stack when needed
+- A collaborative mindset and eagerness to learn
+- Experience working in a real team environment through internship
 
 ###
 ---
