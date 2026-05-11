@@ -3,20 +3,19 @@
 ###
 # 👋 Hey, I'm Murphy
 
-### I’m a frontend developer
+### I'm a frontend-focused full-stack developer
 I enjoy learning by building projects and turning designs into simple, responsive web applications.
 
 🚀 Currently interning as a Frontend Developer at **Show Not Tell**, Bremen (2026)
 
 ---
 ## About Me
-I’m currently focused on learning frontend development and building hands-on projects to strengthen my skills. I enjoy working with JavaScript and React, and I like understanding how frontend applications connect to APIs and databases.
-As an intern, I bring:
-- A strong willingness to learn and take feedback
-- Attention to detail when building UI
-- Basic understanding of how full-stack applications work
-- A positive and collaborative mindset
-I’m excited to grow my skills in a real-world team environment.
+I'm a frontend-focused full-stack developer with hands-on experience 
+building modern web applications. I work with JavaScript, TypeScript, 
+and React on the frontend, with working knowledge of Node.js, Express, 
+and PostgreSQL on the backend. I enjoy turning designs into clean, 
+responsive interfaces while understanding how they connect to APIs 
+and databases. As an intern, I bring:
 
 ###
 ---
