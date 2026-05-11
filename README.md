@@ -6,6 +6,8 @@
 ### I’m a frontend developer
 I enjoy learning by building projects and turning designs into simple, responsive web applications.
 
+🚀 Currently interning as a Frontend Developer at **Show Not Tell**, Bremen (2026)
+
 ---
 ## About Me
 I’m currently focused on learning frontend development and building hands-on projects to strengthen my skills. I enjoy working with JavaScript and React, and I like understanding how frontend applications connect to APIs and databases.
