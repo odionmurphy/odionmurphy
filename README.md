@@ -51,10 +51,11 @@ Personal portfolio showcasing projects and skills.
 - **Live:** [murphy1.onrender.com](https://murphy1.onrender.com)
 - **Repo:** [github.com/odionmurphy/Murphy-Portfolio](https://github.com/odionmurphy/Murphy-Portfolio)
 
-### 🏗️ Group Next.js Project
-Full-stack group project built with Next.js during DCI training.
-- **Tech:** Next.js, React, TypeScript
-- **Repo:** [github.com/agency-next-js-project](https://github.com/agency-next-js-project/Group-next.js-project)
+### 🏗️ JOM — Collaborative Full-Stack App
+Full-stack web application built collaboratively with a team.
+- **Tech:** Next.js, TypeScript
+- **Live:** [jom-gamma.vercel.app](https://jom-gamma.vercel.app)
+- **Repo:** [github.com/JesseAuta/JOM](https://github.com/JesseAuta/JOM)
 
 ---
 
