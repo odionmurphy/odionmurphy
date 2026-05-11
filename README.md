@@ -34,29 +34,6 @@ What I bring to a team:
 
 ![Skills](./skills-banner.svg)
 
-**Languages**
-- HTML, CSS, JavaScript (ES6+), TypeScript
-
-**Frontend**
-- React
-- Next.js
-- Tailwind CSS
-
-**Backend & Databases (learning / basic experience)**
-- REST APIs
-- PostgreSQL
-- MySQL
-- Express
-
-**🚀 Tools & Platforms**
-- Git & GitHub
-- ☁️ AWS-native systems (Dockerized, CI/CD-driven)
-- ⚙️ DevOps automation and reliability engineering
-- Render,Vercel (deployment)
-- Infrastructure automation & monitoring
----
-📈  Design
-- Figma
 ---
 ## 🧪 Featured Projects (Deep Dive)
 > | Project | Description | Tech | Links |
