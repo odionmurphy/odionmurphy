@@ -173,11 +173,10 @@ I’m excited to grow my skills in a real-world team environment.
 
 ## 🌐 Connect With Me
 - 🌐 Portfolio: [murphy1.onrender.com](https://murphy1.onrender.com)
-- 💼 LinkedIn: [linkedin.com/in/odionmurphy](https://linkedin.com/in/odionmurphy)
 - 🐙 GitHub: [github.com/odionmurphy](https://github.com/odionmurphy)
 - 💼 LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/feed/)**
 - 📸 Instagram: **[Instagram Profile](#)**
-- 🧑‍💻 GitHub: **[github.com/YOUR_GITHUB_USERNAME](#)**
+
 
 ---
 
